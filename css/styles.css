@@ -587,11 +587,6 @@ body {
   transform: translateY(0%);
 }
 
-.works-link .works-images-text,
-.works-link .works-images-text {
-  transform: translateY(100%);
-}
-
 .works-link:hover,
 .works-link:focus {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
